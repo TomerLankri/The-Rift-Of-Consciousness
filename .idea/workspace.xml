@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25bcbc83-273f-4bd5-92bd-851393a22780" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/The-Rift-Of-Consciousness.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Cat_Animation.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Cat_Animation/cat1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Cat_Animation/cat1.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Cat_Animation/cat2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Cat_Animation/cat2.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Cat_Animation/cat3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Cat_Animation/cat3.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Cat_Animation/cat4.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Cat_Animation/cat4.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Enemy_Move.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Enemy_Move.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Frued_Walk_Left.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Frued_Walk_Left/frued1_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Frued_Walk_Left/frued1_left.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Frued_Walk_Left/frued2_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Frued_Walk_Left/frued2_left.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Frued_Walk_Left/frued3_left.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Frued_Walk_Left/frued3_left.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Frued_Walk_Left/frued4_left.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Frued_Walk_Left/frued4_left.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Frued_Walk_Right.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Frued_Walk_Right/frued1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Frued_Walk_Right/frued1.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Frued_Walk_Right/frued2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Frued_Walk_Right/frued2.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Frued_Walk_Right/frued3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Frued_Walk_Right/frued3.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Frued_Walk_Right/frued4.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Frued_Walk_Right/frued4.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/LeftPlayer.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/LeftPlayer.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Player_Idle.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Player_Idle.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Player_Idle_Left.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Player_Idle_Left.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Player_Walk_Left.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Player_Walk_Left.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Player_Walk_Right.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/Player_Walk_Right.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/RightFruedWalk.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/RightFruedWalk.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/realenemy.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Animations/realenemy.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/GameRunner1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/GameRunner1.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/FHDBackground.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/FHDBackground.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/background.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/bed1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/bed1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/bed1_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/bed1_small.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/bed2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/bed2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/bed2_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/bed2_small.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/bed3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/bed3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/bed3_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/bed3_small.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/bed4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/bed4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/bed4_small.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/bed4_small.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/frued.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/frued.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/frued_left.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/frued_left.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/opening_screen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Images/opening_screen.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/PlayerOneController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/PlayerOneController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/PlayerReal.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/PlayerReal.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/Player.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/Dream.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/Dream.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/LefttWall.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/LefttWall.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/Points.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/Points.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/Real.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/Real.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/Real.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/Real.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/Skepta_–_Pure_Water 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/Skepta_–_Pure_Water 1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/pond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/pond.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/pond.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/pond.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/river.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/river.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/street.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/street.jpeg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/trippy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/trippy.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/walls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Prefabs/backround/walls.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/Square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/Square.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_5.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_6.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_d1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_d1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_d2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_d2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_d3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_d3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_r1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_r1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_r2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_r2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_r3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/bed_r3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/dreamenemy.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/dreamenemy.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/realPoint.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/realPoint.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/realenemy.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Resources/realenemy.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/dreamenemy.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/dreamenemy.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/enemy.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/enemy.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/gamerunner.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/gamerunner.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/points.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/points.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/realenemy.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/Assets/realenemy.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/ProjectSettings/NetworkManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The-rift-of-consciousness/ProjectSettings/XRSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frued 2019-12-24 16-41-07.mp4" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1745334580">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="The-Rift-Of-Consciousness" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The-Rift-Of-Consciousness" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25bcbc83-273f-4bd5-92bd-851393a22780" name="Default Changelist" comment="" />
+      <created>1602590822889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602590822889</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32959184" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
